@@ -7,7 +7,7 @@ Este sistema permite gestionar tareas personales de manera sencilla, aplicando *
 ---
 
 ## 🚀 Funcionalidades
-- ➕ Agregar tareas
+- ➕ Agregar tareas ++++
 - 📋 Listar tareas
 - ✅ Completar tareas
 - 🗑️ Eliminar tareas
