@@ -1,1 +1,4 @@
+Flask
+Flask-Migrate
+Flask-Cors
 SQLAlchemy>=1.4
